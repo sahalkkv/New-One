@@ -1,0 +1,33 @@
+{
+  "name": "yfgvkw--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-base": "^21.2.3",
+    "@syncfusion/ej2-buttons": "^21.2.6",
+    "@syncfusion/ej2-calendars": "^21.2.6",
+    "@syncfusion/ej2-documenteditor": "^21.2.6",
+    "@syncfusion/ej2-dropdowns": "^21.2.6",
+    "@syncfusion/ej2-icons": "^21.2.3",
+    "@syncfusion/ej2-lists": "^21.2.6",
+    "@syncfusion/ej2-navigations": "^21.2.6",
+    "@syncfusion/ej2-pivotview": "^21.2.6",
+    "@syncfusion/ej2-react-base": "^21.2.7",
+    "@syncfusion/ej2-react-calendars": "^21.2.6",
+    "@syncfusion/ej2-react-dropdowns": "^21.2.6",
+    "@syncfusion/ej2-react-schedule": "^21.2.6",
+    "@syncfusion/ej2-schedule": "^21.2.6",
+    "@syncfusion/ej2-splitbuttons": "^21.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
